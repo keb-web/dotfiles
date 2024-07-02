@@ -29,4 +29,6 @@ Linx-specifi:
 - discord
 - obsidian
 - OBS-studio
+mac-specific:
+- fantastsical (mac)
 
