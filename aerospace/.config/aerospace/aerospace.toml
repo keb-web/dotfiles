@@ -19,6 +19,7 @@ outer.right =      2
 outer.bottom =     2
 outer.top =        2
 
+
 # Mouse follows focus when focused monitor changes
 # on-focused-monitor-changed = ['main']
 [workspace-to-monitor-force-assignment]
@@ -116,3 +117,7 @@ esc = 'mode main'
 if.app-id = 'net.kovidgoyal.kitty'
 run = 'layout tiling'
 
+[[on-window-detected]]
+if.app-id = 'org.mozilla.firefox'
+if.window-title-regex-substring = 'Picture-in-Picture'
+run = 'layout floating'
