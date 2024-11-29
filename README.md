@@ -1,3 +1,4 @@
+## General
 # My Dotfiles & Config
 
 This repo is pretty much a collection of all the applications / configurations i made to my machinhes  
@@ -11,7 +12,12 @@ Linux Config is very much a WIP
 - tmux
 - ZSH
 - p10k
+## MACOS
+- yabai
+- skhd
+- raycast
 
+## LINUX
 ## MACOS-Specific Programs
 - yabai (replaced for aerospace)
 - skhd (replaced for aerospace)
@@ -27,10 +33,22 @@ Linux Config is very much a WIP
 - polybar
 - blueman
 - gpaste -> clipboard thingy
+
+### extra shi 
+- ripgrep                -> grepping
+- npm                    -> packages! Mason!
+Linx-specifi:
+- nerdfonts              -> jetbrains mono)
 - nmtui                  -> internet tui
 - network-manager-applet -> nmapplet (figure out how to use)
 - polybar-themes         -> for drip
 
+### Applications
+- discord
+- obsidian
+- OBS-studio
+mac-specific:
+- fantastsical (mac)
 ### extra shi 
 - ripgrep                -> grepping
 - npm                    -> packages! Mason! Wow!
