@@ -19,9 +19,9 @@ outer.right =      2
 outer.bottom =     2
 outer.top =        2
 
-
 # Mouse follows focus when focused monitor changes
 # on-focused-monitor-changed = ['main']
+
 [workspace-to-monitor-force-assignment]
 1 = 'main'                       # Main monitor
 2 = 'main'                       # Main monitor
@@ -48,11 +48,6 @@ alt-h = 'focus left'
 alt-j = 'focus down'
 alt-k = 'focus up'
 alt-l = 'focus right'
-
-alt-left = 'focus left'
-alt-up = 'focus down'
-alt-down = 'focus up'
-alt-right = 'focus right'
 
 alt-shift-h = 'move left'
 alt-shift-j = 'move down'
@@ -121,3 +116,7 @@ run = 'layout tiling'
 if.app-id = 'org.mozilla.firefox'
 if.window-title-regex-substring = 'Picture-in-Picture'
 run = 'layout floating'
+
+# [mode.main.binding]
+# cmd-h = [] # Disable "hide application"
+# cmd-alt-h = [] # Disable "hide others"
