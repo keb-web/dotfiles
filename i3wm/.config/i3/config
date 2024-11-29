@@ -13,7 +13,6 @@ set $mod Mod1
 
 # "any theme-changes with gnome-tweaks should work for gtk-enabled apps"
 exec --no-startup-id /usr/lib/gsd-xsettings
-
 exec_always --no-startup-id picom
 exec_always --no-startup-id killall polybar
 exec_always --no-startup-id ~/.config/polybar/launch.sh

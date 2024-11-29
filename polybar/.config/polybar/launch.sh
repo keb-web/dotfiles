@@ -14,5 +14,3 @@ if type "xrandr"; then
 else
   polybar --reload keb &
 fi
-
-# echo "Polybar launched..."
