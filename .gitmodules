@@ -1,6 +1,3 @@
-[submodule "nvim/.config/"]
-	path = nvim/.config/
-	url = https://github.com/keb-web/kickstart.nvim
 [submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
-	url = https://github.com/keb-web/kickstart.nvim
+	path = nvim/
+	url = https://github.com/keb-web/nvim

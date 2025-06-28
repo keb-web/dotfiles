@@ -1,0 +1,1 @@
+/home/keb/.config/i3/
